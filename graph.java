@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 
-class Graph {
+public class Graph {
     private int[][] A;
     private int lastIndex;
     private boolean directed = false;
